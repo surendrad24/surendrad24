@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Surendra Donthamsetti</h1>
+<h1 align="center">Hi 👋, I'm [Surendra Donthamsetti](https://surendradonthamsetti.com/)</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surendrad24/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/surendrad24)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/surendradonthamsetti/)
+[![Facebook Badge](https://img.shields.io/badge/-facebook-1778F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/surendrad24)
+
+### Glad to see you here! &nbsp; <p align="center">![](https://komarev.com/ghpvc/?username=surendrad24&color=blueviolet&label=PROFILE+VIEWS&style=plastic)</p>
+
+## About Me
+
 <h3 align="center">A passionate Technical Architect & Cybersecurity Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendrad24&label=Profile%20views&color=0e75b6&style=flat" alt="surendrad24" /> </p>
